@@ -1,0 +1,7 @@
+{
+  "name": "lumi-chatbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {}
+}
